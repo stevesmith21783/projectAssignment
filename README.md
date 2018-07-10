@@ -2,4 +2,6 @@
 cd simple-todo-app
 
 #run the following command next
+
+
 npm start
